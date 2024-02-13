@@ -8,3 +8,4 @@ Sixth script will show all content including the hidden files with user adn grou
 Seventh script will create a directory named my_first_directory inside directory tmp
 Eith script moves file betty from /tmp/ to /tmp/my_first_directory
 Script 9 deletes betty file from diretory /tmp/my_first_directory
+Script 10 deletes directory /tmp/my_first_directory
