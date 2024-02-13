@@ -13,3 +13,4 @@ script 10 takes you back to your previous directory
 scritp 11 give you a list of all files (even hidden files) and of the parent and of the working diretory
 Script 12 will show you the file type of iamafile
 Script 13 creates a symbolic link to /bin/ls named __ls__
+Script 14 copies all html files from the current workind directory to the parent working directory
