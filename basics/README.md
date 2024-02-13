@@ -11,3 +11,4 @@ Script 8 deletes betty file from diretory /tmp/my_first_directory
 Script 9 deletes directory /tmp/my_first_directory
 script 10 takes you back to your previous directory
 scritp 11 give you a list of all files (even hidden files) and of the parent and of the working diretory
+Script 12 will show you the file type of iamafile
