@@ -7,3 +7,4 @@ Fith script is going to display in long format all the files including the hidde
 Sixth script will show all content including the hidden files with user adn groud ID numerically
 Seventh script will create a directory named my_first_directory inside directory tmp
 Eith script moves file betty from /tmp/ to /tmp/my_first_directory
+Script 9 deletes betty file from diretory /tmp/my_first_directory
