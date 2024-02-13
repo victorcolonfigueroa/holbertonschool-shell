@@ -9,3 +9,4 @@ Seventh script will create a directory named my_first_directory inside directory
 Eith script moves file betty from /tmp/ to /tmp/my_first_directory
 Script 9 deletes betty file from diretory /tmp/my_first_directory
 Script 10 deletes directory /tmp/my_first_directory
+script 11 takes you back to your previous directory
