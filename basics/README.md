@@ -10,3 +10,4 @@ Eith script moves file betty from /tmp/ to /tmp/my_first_directory
 Script 9 deletes betty file from diretory /tmp/my_first_directory
 Script 10 deletes directory /tmp/my_first_directory
 script 11 takes you back to your previous directory
+scritp 12 give you a list of all files (even hidden files) and of the parent and of the working diretory
