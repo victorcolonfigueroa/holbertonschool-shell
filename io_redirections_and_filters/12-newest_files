@@ -1,2 +1,2 @@
 #!/bin/bash
-head io_redirections_and_filters
+head -n 10 io_redirections_and_filters
